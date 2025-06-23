@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "sorcery_supplements:item/example_magic_sword"
+  }
+}

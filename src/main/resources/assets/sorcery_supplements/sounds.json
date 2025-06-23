@@ -1,0 +1,32 @@
+{
+	"spell.tether.cast": {
+		"subtitle": "sounds.sorcery_supplements.tether",
+		"sounds": [
+			"sorcery_supplements:tether_cast"
+		]
+	},
+	"spell.pheonix.begin_cast": {
+		"subtitle": "sounds.sorcery_supplements.pheonix_begin_cast",
+		"sounds": [
+			"sorcery_supplements:pheonix/pheonix_begin_cast"
+		]
+	},
+	"spell.pheonix.finish_cast": {
+		"subtitle": "sounds.sorcery_supplements.pheonix_finish_cast",
+		"sounds": [
+			"sorcery_supplements:pheonix/pheonix_finish_cast"
+		]
+	},
+	"entity.pheonix.ascend": {
+		"subtitle": "sounds.sorcery_supplements.pheonix_ascend",
+		"sounds": [
+			"sorcery_supplements:pheonix/pheonix_ascend"
+		]
+	},
+	"entity.pheonix.strike": {
+		"subtitle": "sounds.sorcery_supplements.pheonix_strike",
+		"sounds": [
+			"sorcery_supplements:pheonix/pheonix_strike"
+		]
+	}
+}

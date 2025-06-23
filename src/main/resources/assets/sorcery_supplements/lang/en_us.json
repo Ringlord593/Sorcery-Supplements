@@ -1,0 +1,18 @@
+{
+	"spell.sorcery_supplements.holy_flare": "Holy Flare",
+	"spell.sorcery_supplements.super_heal.guide": "A bright flare that burns undead",
+	"spell.sorcery_supplements.tether": "Tether",
+	"spell.sorcery_supplements.raging_pheonix": "Raging Pheonix",
+	
+	"ui.sorcery_supplements.range": "%d Block Radius",
+	"ui.sorcery_supplements.impact_damage": "%d Impact Damage",
+	"ui.sorcery_supplements.duration": "%d Seconds Duration",
+	
+	"sounds.sorcery_supplements.pheonix_begin_cast": "Casting Spell: Raging Pheonix",
+	"sounds.sorcery_supplements.pheonix_finish_cast": "Woosh",
+	"sounds.sorcery_supplements.pheonix_ascend": "Raging Pheonix Born",
+	"sounds.sorcery_supplements.pheonix_strike": "Raging Pheonix Exploded",
+	"sounds.sorcery_supplements.tether_cast": "Cast Spell: Tether",
+	
+	"item.sorcery_supplements.example_magic_sword": "Example Magic Sword"
+}
