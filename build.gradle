@@ -33,8 +33,8 @@ neoForge {
         minecraftVersion = project.parchment_minecraft_version
     }
 
-    // This line is optional. Access Transformers are automatically detected
-    // accessTransformers = project.files('src/main/resources/META-INF/accesstransformer.cfg')
+
+    accessTransformers = project.files('src/main/resources/META-INF/accesstransformer.cfg')
 
     // Default run configurations.
     // These can be tweaked, removed, or duplicated as needed.
@@ -142,8 +142,8 @@ repositories {
 
 dependencies {
     // IRONS SPELLS N SPELLBOOKS **********************************************************************************
-    compileOnly "io.redspace:irons_spellbooks:${irons_spells_version}:api"
-    runtimeOnly "io.redspace:irons_spellbooks:${irons_spells_version}"
+    //compileOnly "io.redspace:irons_spellbooks:${irons_spells_version}:api"
+    implementation "io.redspace:irons_spellbooks:${irons_spells_version}"
 
     // GECKOLIB ***************************************************************************************************
     implementation "software.bernie.geckolib:geckolib-neoforge-${minecraft_version}:${geckolib_version}"
