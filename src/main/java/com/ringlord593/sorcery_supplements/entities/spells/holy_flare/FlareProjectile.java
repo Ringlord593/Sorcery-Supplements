@@ -127,7 +127,5 @@ public class FlareProjectile extends AbstractMagicProjectile {
 
     @Override
     public void impactParticles(double x, double y, double z) {
-        // TODO Auto-generated method stub
-
     }
 }

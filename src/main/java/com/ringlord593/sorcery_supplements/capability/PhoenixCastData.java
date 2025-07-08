@@ -23,7 +23,6 @@ public class PhoenixCastData implements ICastDataSerializable {
     }
 
     public PhoenixCastData() {
-        // TODO Auto-generated constructor stub
     }
 
     @Nullable

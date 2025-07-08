@@ -32,7 +32,6 @@ public class PhoenixEntityRenderer extends GeoEntityRenderer<PhoenixEntity> {
 
     @Override
     protected int getBlockLightLevel(PhoenixEntity pEntity, BlockPos pPos) {
-        // TODO Auto-generated method stub
         return 14;
     }
 }

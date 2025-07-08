@@ -72,7 +72,6 @@ public class RagingPhoenixSpell extends AbstractSpell {
 
     @Override
     public Optional<SoundEvent> getCastFinishSound() {
-        // TODO Auto-generated method stub
         return Optional.empty();
     }
 
@@ -125,7 +124,6 @@ public class RagingPhoenixSpell extends AbstractSpell {
     @Override
     public void onRecastFinished(ServerPlayer serverPlayer, RecastInstance recastInstance, RecastResult recastResult,
                                  ICastDataSerializable castDataSerializable) {
-        // TODO Auto-generated method stub
         super.onRecastFinished(serverPlayer, recastInstance, recastResult, castDataSerializable);
     }
 
@@ -153,7 +151,6 @@ public class RagingPhoenixSpell extends AbstractSpell {
 
     @Override
     public int getSpellCooldown() {
-        // TODO Auto-generated method stub
         return super.getSpellCooldown();
     }
 
@@ -174,7 +171,6 @@ public class RagingPhoenixSpell extends AbstractSpell {
 
     @Override
     public ICastDataSerializable getEmptyCastData() {
-        // TODO Auto-generated method stub
         return new PhoenixCastData();
     }
 }
